@@ -1,3 +1,5 @@
 const app = "I don't do much."
 
-destructivelyAppendKitten(name)
+var destructivelyAppendKitten = [name]
+
+destructivelyAppendKitten.push(kitten)
