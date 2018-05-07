@@ -9,7 +9,7 @@ function destructivelyAppendKitten(name) {
 
 var kittens = ['Milo', 'Otis', 'Garfield'];
 
-function destrutielyPrependKitten(name) {
+function destrutivelyPrependKitten(name) {
   kittens.shift(name)
   return kittens
 }
