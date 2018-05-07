@@ -1,3 +1,6 @@
 const app = "I don't do much."
 
-destructivelyAppendKitten.push(name)
+function destructivelyAppendKitten(kittens, name) {
+  kittens.push(name)
+  return kittens
+}
